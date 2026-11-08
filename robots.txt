@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://infogrupokoal-ship-it.github.io/fontaneria-directa-valencia/sitemap.xml
